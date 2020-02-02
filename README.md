@@ -5,4 +5,4 @@ O aplicativo será recarregado automaticamente se você alterar qualquer um dos 
 
 ##Scenes
 
--[x] Criar o primeiro componente.
+- [x] Criar o primeiro componente.
