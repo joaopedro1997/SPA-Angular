@@ -10,6 +10,7 @@ O aplicativo será recarregado automaticamente se você alterar qualquer um dos 
 - [x] Baixar e usar o bootstrap no projeto.
 
 
+
 ## Comands
  * `ng generate component [nome-do-componente]` ou `ng g c [nome-do-componente]` // cria um componente angular. 
  * `npm i bootstrap` // baixa o bootstrap para o nosso projeto via npm
@@ -17,4 +18,3 @@ O aplicativo será recarregado automaticamente se você alterar qualquer um dos 
                  "src/styles.css",
                  "node_modules/bootstrap/dist/css/bootstrap.min.css"
                ],` 
-* 
