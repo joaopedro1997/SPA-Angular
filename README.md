@@ -5,7 +5,6 @@ O aplicativo será recarregado automaticamente se você alterar qualquer um dos 
 
 ## Scenes
 
-<<<<<<< HEAD
 -[x] Criar o primeiro componente.
 -[x] Criar um componente usando o angular cli.
 -[x] Baixar e usar o bootstrap no projeto.
@@ -19,6 +18,3 @@ O aplicativo será recarregado automaticamente se você alterar qualquer um dos 
                  "node_modules/bootstrap/dist/css/bootstrap.min.css"
                ],` 
 * 
-=======
-- [x] Criar o primeiro componente.
->>>>>>> d9c318845b9fa7ad99e9dff53ebb4b994a5e7c8e
